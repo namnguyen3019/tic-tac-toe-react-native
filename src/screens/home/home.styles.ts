@@ -5,5 +5,13 @@ const styles = StyleSheet.create({
     marginTop: 50,
     alignItems: "center",
   },
+  logo: {
+    height: 200,
+    width: "60%",
+    resizeMode: "contain",
+  },
+  buttons: {
+    marginTop: 20,
+  },
 });
 export default styles;
